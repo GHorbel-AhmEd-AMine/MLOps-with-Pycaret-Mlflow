@@ -47,6 +47,6 @@ MLOps is an engineering discipline that aims to combine machine learning develop
 ![image](https://user-images.githubusercontent.com/39995021/174984847-4a7befe4-b618-4308-b204-b2fdb2d00e3d.png)
 
 
-Référence : 
+## Référence : 
 
 [Pycaret example](https://www.kdnuggets.com/2021/05/easy-mlops-pycaret-mlflow.html)
