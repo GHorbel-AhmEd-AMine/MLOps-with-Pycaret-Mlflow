@@ -8,3 +8,6 @@ Integrating MLOps in our machine learning experiments using PyCaret and MLflow
 
 2) PyCaret is an alternate low-code library that can replace hundreds of code lines with few lines only. This makes the experiment cycle exponentially fast and efficient.
 
+![image](https://user-images.githubusercontent.com/39995021/174984290-9f100186-6ef3-46a1-ae16-6d0b8450c655.png)
+
+
