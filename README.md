@@ -41,5 +41,7 @@ MLflow is an open-source platform to manage the ML lifecycle, including experime
  
 MLOps is an engineering discipline that aims to combine machine learning development i.e. experimentation (model training, hyperparameter tuning, model ensembling, model selection, etc.), normally performed by Data Scientist with ML engineering and operations in order to standardize and streamline the continuous delivery of machine learning models in production.
 
-
+![image](https://user-images.githubusercontent.com/39995021/174985130-f2e173b0-6da3-4fc5-8001-478b77300639.png)
+![image](https://user-images.githubusercontent.com/39995021/174985060-f7d90837-6387-4b8c-9bbd-d52e8c7960cc.png)
+![image](https://user-images.githubusercontent.com/39995021/174985001-04b4b9ad-20ca-46e7-ae25-0630b76b84fe.png)
 ![image](https://user-images.githubusercontent.com/39995021/174984847-4a7befe4-b618-4308-b204-b2fdb2d00e3d.png)
